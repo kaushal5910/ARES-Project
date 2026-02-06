@@ -1,0 +1,23 @@
+# Add .gitignore for the project
+build/
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.suo
+*.user
+*.sln.docstates
+.vs/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+compile_commands.json
+.vscode/
+.idea/
